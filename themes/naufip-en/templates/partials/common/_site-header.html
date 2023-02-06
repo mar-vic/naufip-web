@@ -1,0 +1,29 @@
+<header id="banner" class="body" style="background-image:url('{{ SITEURL }}/theme/images/science_cropped.jpg')">
+
+	<img src="{{ SITEURL }}/theme/images/loga/naufip.jpg" style="height:40px;position:relative;bottom:18px;float:left;padding-right:3px;">
+  <h1><a href="{{ SITEURL }}/">{{ SITENAME }} {% if SITESUBTITLE %}<strong>{{ SITESUBTITLE }}</strong>{% endif %}</a></h1>
+
+  <nav>
+    <ul>
+      {% for title, link in MENUITEMS %}
+      <li>
+        <a {% if "/en/" + output_file == link or (output_file == 'index.html' and link == '/en') %}class="active"{% endif %} href="{{ link }}"><b>{{ title }}</b></a>
+      </li>
+      {% endfor %}
+    </ul>
+    <div id="lang-switch" class="row justify-content-end">
+      <div class="col-auto p-0">
+        <div class="dropdown">
+          <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+            <b>EN</b>
+          </button>
+          <ul class="dropdown-menu">
+            <li class="active"><b>English</b></li>
+            <li><a class="dropdown-item" href="/"><b>Slovensky</b></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+</header><!-- /#banner -->

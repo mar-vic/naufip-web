@@ -1,0 +1,36 @@
+  <script>
+  const currentDate = new Date();
+  function articleAge(pubDateStr) {
+    const pubDate = new Date(pubDateStr.replaceAll('\n', '').replaceAll(' ', ''));
+    const age = Math.abs(Math.round((currentDate.getTime() - pubDate.getTime()) / 1000 / 3600 / 24));
+    const months = Math.abs(Math.round(age / 30));
+    const years = Math.abs(Math.round(age / 365));
+
+    if ( years >= 1) {
+      if ( years >= 2) {
+        return  years + ' years ago';
+      }
+      return 'One year ago';
+    } else if (months >= 1) {
+      if (months  >= 2) {
+        return months + ' months ago';
+      }
+      return 'One month ago';
+    } else if (age >= 1) {
+      if (age >= 2) {
+        return age + ' days ago'
+      }
+      return 'Yesterday'
+    } else {
+      return ' Today';
+    }
+  }
+  const pubDates = document.getElementsByClassName('pub-date');
+  for (var i = 0; i < pubDates.length; i++) {
+    pubDates[i].textContent = articleAge(pubDates[i].textContent);
+  }
+  </script>
+
+  <!-- BOOTSTRAP JS -->
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js" integrity="sha384-mQ93GR66B00ZXjt0YO5KlohRA5SY2XofN4zfuZxLkoj1gXtW8ANNCe9d5Y3eG5eD" crossorigin="anonymous"></script>

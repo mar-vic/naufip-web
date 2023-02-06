@@ -1,0 +1,116 @@
+<section id="hero" class="body">
+  <article>
+    <h1>Welcome to the NAUFIP project!</h1>
+
+    <p>
+      The project aims to give a complex analysis of cluster of
+      philosophical concepts and theories falling under the banner
+      of naturalism. During recent decades, naturalism became
+      a dominant philosophical attitude towards the framing of
+      problems of individual philosophical disciplines (e.g.,
+      philosophy of science, epistemology, ethics, philosophy of mind,
+      social philosophy ...), as well as in relation to
+      metaphilosophical issues. The main aim of our research is to
+      answer the question, whether philosophical naturalism can
+      fulfill the role of an universal framework for describing and
+      explaning the natural, ethico-social and logico-mathematical
+      phenomena.
+    </p>
+    <p>
+      A more detailed information about naturalism, its
+      utility, the respects in which it may be seen as problematic,
+      as well as concrete partial goals of our research, can be
+      found in the <a href="{{SITEURL}}/pages/about-the-project.html">about</a> section of the
+      web page.
+    </p>
+  </article>
+</section>
+
+<section class="section-title body">
+  <h2>financial and personnel backing</h2>
+</section>
+
+<section id="dedication" class="body">
+  <article>
+    <p>
+      The project is funded by the Slovak Research and Development Agency through Contract no. APVV-18-0178. 
+    </p>
+
+    <p>
+      The project is realized by a team of researchers at the
+      <a href="https://fphil.uniba.sk/en/departments-and-research-centres/department-of-philosophy-and-history-of-philosophy/">Department of Philosophy and History of Philosophy</a> at Comenius
+      University in Bratislava, with Prof. Mgr. Michal Chabada,
+      PhD. figuring as its principal investigator. You can get acquainted with our team of researchers <a href="/pages/riesitelsky-kolektiv.html" title="Choď na sekciu 'Riešiteľský kolektív'">here</a>.
+    </p>
+
+    <div class="row" style="margin-top:40px;">
+      <div class="col-5">
+        <h5>Contact</h5>
+        <ul>
+          <li>Dpt. of Philosophy and History of Philosophy</li>
+          <li>Comenius University in Bratislava</li>
+          <li>Faculty of Arts</li>
+          <li>Gondova 2, P.O.BOX 32</li>
+          <li>814 99 Bratislava</li>
+          <li><b>e-mail:</b> <a href="mailto:kfdf@fphil.uniba.sk">kfdf (at)
+	          fphil.uniba.sk</a></li>
+        </ul>
+      </div>
+      <div class="col-2" style="padding-top:20px;">
+        <a class="image-link"
+           href="https://fphil.uniba.sk/en/"
+           title="Choď na stránku Filozofickej fakulty Komenského Univerzity v Bratislave.">
+	        <img src="theme/images/loga/logo_fakulty.svg"
+               alt="Faculty of Arts" />
+        </a>
+      </div>
+      <div class="col-5" style="padding-top:20px;">
+        <a class="image-link"
+           href="https://www.apvv.sk/?lang=en"
+           title="Choď na stránku Agentúry na podporu výskumu a vývoja."
+        >
+          <img src="theme/images/loga/logo_apvv.png"
+               alt="Slovak Research and Development Agency" />
+        </a>
+      </div>
+    </div>
+  </article>
+</section>
+
+<!-- RENDER LATEST ARTICLES IF THERE ARE SOME -->
+{% if articles and output_file == "index.html" %}
+<section class="section-title body">
+  <h2>latest articles</h2>
+</section>
+
+<section id="content" class="body">
+  <ol id="posts-list" class="hfeed">
+    {% for article in articles[:3] %}
+    <li>
+      <article class="hentry">
+        <header>
+          <h2 class="small-entry-title">
+            <a href="{{ SITEURL }}/{{ article.url }}"
+               rel="bookmark"
+               title="Permalink to {{ article.title|striptags }}">
+              {{ article.title }}
+            </a>
+          </h2>
+	        {% include 'article_infos.html' %}
+        </header>
+
+        <div class="entry-content">
+          {{ article.summary }}
+        </div><!-- /.entry-content -->
+      </article>
+
+      {% if not loop.last  %}
+      <hr class="hr1">
+      {% endif %}
+
+    </li>
+    {% endfor %}
+  </ol>
+</section>
+{% endif %}
+

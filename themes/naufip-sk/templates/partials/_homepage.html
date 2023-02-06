@@ -1,0 +1,115 @@
+<section id="hero" class="body">
+  <article>
+    <h1>Vítame Vás na stránkach projektu NAUFIP!</h1>
+
+    <p>
+      Projekt je zameraný na komplexnú analýzu myšlienkového prúdu
+      naturalizmu vo filozofii. V ostatných dekádach sa naturalizmus
+      stal dominantným prístupom v rámci filozofie, a to tak
+      k problémom jednotlivých filozofických disciplín (filozofie
+      vedy, epistemológie, etiky, filozofie mysle, sociálnej filozofie
+      a ďalších), ako aj k filozofii samotnej. Hlavným cieľom výskumu
+      je otázka, či naturalizmus ako filozofická teória môže slúžiť
+      ako univerzálny program pri filozofickom opise a vysvetľovaní
+      prírodných, eticko-spoločenských a logicko-matematických javov.
+    </p>
+    <p>
+      Podrobnejšie informácie o naturalistickom prístupe, jeho uplatnení a
+      možných problémoch, ako aj o konkrétnych parciálnych cieľoch  nášho výskumu sa
+      dozviete <a href="/pages/o-projekte" title="Choď na sekciu 'O projekte'">tu</a>.
+    </p>
+  </article>
+</section>
+
+<section class="section-title body">
+  <h2>finančné a personálne zabezpečenie</h2>
+</section>
+
+<section id="dedication" class="body">
+  <article>
+    <p>
+      Projekt bol podporený Agentúrou na podporu výskumu a vývoja na
+      základe Zmluvy č. APVV-18-0178.
+    </p>
+
+    <p>
+      Riešiteľským pracoviskom projektu je
+      <a href="https://fphil.uniba.sk/katedry-a-odborne-pracoviska/katedra-filozofie-a-dejin-filozofie/"
+         title="Choď na oficiálnu stránku katedry.">
+        Katedra filozofie a dejín filozofie</a>
+      na
+      <a href="https://fphil.uniba.sk/" title="Choď na stránku fakulty">Filozofickej fakulte Univerzity Komenského v Bratislave</a>,
+      pod vedením zodpovedného riešiteľa prof. Mgr. Michala Chabadu, PhD. S kolektívom riešiteľov sa môžete zoznámiť <a href="/pages/riesitelsky-kolektiv.html" title="Choď na sekciu 'Riešiteľský kolektív'">tu</a>.
+    </p>
+
+    <div class="row" style="margin-top:40px;">
+      <div class="col-5">
+        <h5>Kontakt</h5>
+        <ul>
+          <li>Katedra filozofie a dejín filozofie</li>
+          <li>Univerzita Komenského v Bratislave</li>
+          <li>Filozofická fakulta</li>
+          <li>Gondova 2, P.O.BOX 32</li>
+          <li>814 99 Bratislava</li>
+          <li><b>e-mail:</b> <a href="mailto:kfdf@fphil.uniba.sk">kfdf (at)
+	          fphil.uniba.sk</a></li>
+        </ul>
+      </div>
+      <div class="col-2" style="padding-top:20px;">
+        <a class="image-link"
+           href="https://fphil.uniba.sk/"
+           title="Choď na stránku Filozofickej fakulty Komenského Univerzity v Bratislave.">
+	        <img src="theme/images/loga/logo_fakulty.svg"
+               alt="Filozofická fakulta" />
+        </a>
+      </div>
+      <div class="col-5" style="padding-top:20px;">
+        <a class="image-link"
+           href="https://www.apvv.sk/"
+           title="Choď na stránku Agentúry na podporu výskumu a vývoja."
+        >
+          <img src="theme/images/loga/logo_apvv.png"
+               alt="Agentúra na podporu výskumu a vývoja" />
+        </a>
+      </div>
+    </div>
+  </article>
+</section>
+
+<!-- RENDER LATEST ARTICLES IF THERE ARE SOME -->
+{% if articles and output_file == "index.html" %}
+<section class="section-title body">
+  <h2>najnovšie články</h2>
+</section>
+
+<section id="content" class="body">
+  <ol id="posts-list" class="hfeed">
+    {% for article in articles[:3] %}
+    <li>
+      <article class="hentry">
+        <header>
+          <h2 class="small-entry-title">
+            <a href="{{ SITEURL }}/{{ article.url }}"
+               rel="bookmark"
+               title="Permalink to {{ article.title|striptags }}">
+              {{ article.title }}
+            </a>
+          </h2>
+	        {% include 'article_infos.html' %}
+        </header>
+
+        <div class="entry-content">
+          {{ article.summary }}
+        </div><!-- /.entry-content -->
+      </article>
+
+      {% if not loop.last  %}
+      <hr class="hr1">
+      {% endif %}
+
+    </li>
+    {% endfor %}
+  </ol>
+</section>
+{% endif %}
+

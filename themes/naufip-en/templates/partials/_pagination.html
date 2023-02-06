@@ -1,0 +1,10 @@
+<div class="pagination justify-content-center">
+  {% for page_num in dates_paginator.page_range %}
+  {% if dates_page.number != page_num %}
+  <a href="{% if page_num != 1 %}/en/category/activities{{ page_num }}.html{% else %}/en/category/activities.html{% endif %}" class="page-index">{{ page_num }}</a>
+  {% else %}
+  <span class="page-index">{{ page_num }}</span>
+  {% endif %}
+  {% endfor %}
+
+</div>
