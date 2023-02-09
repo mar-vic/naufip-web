@@ -2,6 +2,7 @@ Title: Conference: Naturalistic Image of the World: Challenges and Limits
 Date: 2021-08-30 16:32
 slug: conference
 summary: We are proud to announce that we will be hosting an international science conference: Naturalistic Image of the World: Challenges and Limits. The conference is scheduled for september the 2nd and 3rd 2021 at the Faculty of Arts of Comenius University. 
+status: hidden
 lang: en
 
 We are proud to announce that we will be hosting an international science conference: Naturalistic Image of the World: Challenges and Limits. The conference is scheduled for september the 2nd and 3rd 2021 at the Faculty of Arts of Comenius University in room G-236 on the second floor of faculty building at the Gondova street in Bratislava.

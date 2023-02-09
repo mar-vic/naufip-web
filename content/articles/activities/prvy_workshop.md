@@ -2,6 +2,7 @@ Title: Workshop I: (Neo) Aristotelovský Naturalizmus
 Date: 2019-10-23 16:32
 slug: prvy_workshop
 summary: V novembri plánujeme uskutočniť prvý workshop organizovaný v rámci nášho výskumného projektu. Jeho témou bude ľudská prirodzenosť v perspektíve aristotelovskej a neoaristotelovskej filozofie. Okrem profesora Michala Chabadu na podujatí vystúpia aj docenti Peter Dvořák z Českej akadémie vied a Marián Kuna z Katolickej Univerzity v Ružomberku.
+status: hidden
 lang: sk
 
 Vo stredu 6.11. 2019 sa uskutoční prvý workshop organizovaný v rámci

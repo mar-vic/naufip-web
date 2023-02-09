@@ -2,7 +2,7 @@
 <html lang="sk">
 <head>
         <meta charset="utf-8" />
-        <title>Správa z druhého workshopu</title>
+        <title>Naturalizmus medzi epistemologiou a etikou</title>
 	<meta property="og:image" content="/theme/images/naufip.jpg" />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="www.naufip.sk" />
@@ -71,13 +71,20 @@
 
     <header>
       <h1 class="entry-title">
-        Správa z druhého workshopu
+        Naturalizmus medzi epistemologiou a etikou
       </h1>
 <div class="article-infos">
+
   <i class="fa fa-calendar" title="Dátum publikácie"></i>
   <abbr class="pub-date" title="23. September 2020">
     2020-09-23
   </abbr>
+
+  <i style="margin-left:15px;" class="fa-solid fa-tag"></i>
+  <abbr>
+    správa z workshopu
+  </abbr>
+
 </div>    </header>
 
     <div class="entry-content">
@@ -87,6 +94,7 @@ naturalizmu v epistemológii a etike, resp. naturalistickým pozíciám na ich
 priesečníku. Na workshope vystúpili dvaja zahraniční hostia z Filozofickej
 fakulty Univerzity Palackého v Olomouci, Mgr. Filip Tvrdý, Ph.D. a Mgr. Petra
 Chudárková. Domáce riešiteľské pracovisko zastupoval Mgr. Martin Nuhlíček, PhD.</p>
+<p><img class="left" src="/photos/druhy_workshop/druhy_workshop-2.jpg"></p>
 <p>Martin Nuhlíček vo svojej úvodnej prezentácii "Verzie naturalizmu v
 epistemológii" charakterizoval naturalistické pozície v súčasnej epistemológii
 pomocou ich kontrastu s tradičnými, ne-naturalistickými prístupmi. Následne
@@ -99,6 +107,7 @@ neschopnosť alebo neochotu utvárať si zdôvodnené presvedčenia, a metakogn
 nekompetentnosť, ktorá zodpovedá neschopnosti resp. neochote rozpoznať vlastné
 omyly. Takto artikulované neresti je podľa neho možné podrobiť naturalizácii za
 pomoci rozličných výskumov v oblasti psychológie a kognitívnych vied.</p>
+<p><img class="right" src="/photos/druhy_workshop/druhy_workshop-3.jpg"></p>
 <p>Petra Chudárková uzavrela program workshopu prezentáciou „Naturalismus v morální
 epistemologii“. Najskôr preskúmala možnosti, akými na otázku morálneho
 zdôvodnenia a morálneho poznania odpovedajú intuicionizmus a kohrentizmus, ktoré
@@ -112,9 +121,76 @@ a akceptovateľosti – úplného nahradenia filozofickej epistemológie a eti
 naturalizovanými náprotivkami.  </p>
     </div>
 
-    <!-- GALLERY -->
+    <!--  GALLERY (defined as partial) -->
+<div id="articleGallery" class="carousel slide">
 
-    <!-- PHOTO -->
+  <!-- GALLERY INDICATORS -->
+  <div class="carousel-indicators pb-3">
+
+    <button type="button" data-bs-target="#articleGallery" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 0"></button>
+
+
+    <button type="button" data-bs-target="#articleGallery" data-bs-slide-to="1" aria-label="Slide 1"></button>
+
+
+    <button type="button" data-bs-target="#articleGallery" data-bs-slide-to="2" aria-label="Slide 2"></button>
+
+
+    <button type="button" data-bs-target="#articleGallery" data-bs-slide-to="3" aria-label="Slide 3"></button>
+
+
+    <button type="button" data-bs-target="#articleGallery" data-bs-slide-to="4" aria-label="Slide 4"></button>
+
+
+    <button type="button" data-bs-target="#articleGallery" data-bs-slide-to="5" aria-label="Slide 5"></button>
+
+  </div>
+
+  <div class="carousel-inner">
+
+
+    <div class="carousel-item active">
+      <img src="/photos/druhy_workshop/druhy_workshop-1.jpg" class="h-100" alt="...">
+    </div>
+
+
+    <div class="carousel-item">
+      <img src="/photos/druhy_workshop/druhy_workshop-2.jpg" class="h-100" alt="...">
+    </div>
+
+
+    <div class="carousel-item">
+      <img src="/photos/druhy_workshop/druhy_workshop-3.jpg" class="h-100" alt="...">
+    </div>
+
+
+    <div class="carousel-item">
+      <img src="/photos/druhy_workshop/druhy_workshop-5.jpg" class="h-100" alt="...">
+    </div>
+
+
+    <div class="carousel-item">
+      <img src="/photos/druhy_workshop/druhy_workshop-6.jpg" class="h-100" alt="...">
+    </div>
+
+
+    <div class="carousel-item">
+      <img src="/photos/druhy_workshop/druhy_workshop_4.jpg" class="h-100" alt="...">
+    </div>
+
+  </div>
+
+  <!-- CONTROLS -->
+  <button class="carousel-control-prev" type="button" data-bs-target="#articleGallery" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#articleGallery" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+
 
   </article>
 </section>
@@ -148,21 +224,21 @@ naturalizovanými náprotivkami.  </p>
 
     if ( years >= 1) {
       if ( years >= 2) {
-        return 'Pred ' + years + ' rokmi';
+        return 'pred ' + years + ' rokmi';
       }
-      return 'Pred rokom';
+      return 'pred rokom';
     } else if (months >= 1) {
       if (months  >= 2) {
-        return 'Pred ' + months + ' mesiacmi';
+        return 'pred ' + months + ' mesiacmi';
       }
-      return 'Pred mesiacom';
+      return 'pred mesiacom';
     } else if (age >= 1) {
       if (age >= 2) {
-        return 'Pred ' + age + ' dňami'
+        return 'pred ' + age + ' dňami'
       }
-      return 'Včera'
+      return 'včera'
     } else {
-      return 'Dnes';
+      return 'dnes';
     }
   }
   const pubDates = document.getElementsByClassName('pub-date');

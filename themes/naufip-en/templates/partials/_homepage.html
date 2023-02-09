@@ -16,6 +16,7 @@
       explaning the natural, ethico-social and logico-mathematical
       phenomena.
     </p>
+
     <p>
       A more detailed information about naturalism, its
       utility, the respects in which it may be seen as problematic,
@@ -23,6 +24,7 @@
       found in the <a href="{{SITEURL}}/pages/about-the-project.html">about</a> section of the
       web page.
     </p>
+
   </article>
 </section>
 
@@ -33,7 +35,7 @@
 <section id="dedication" class="body">
   <article>
     <p>
-      The project is funded by the Slovak Research and Development Agency through Contract no. APVV-18-0178. 
+      The project is funded by the Slovak Research and Development Agency through Contract no. APVV-18-0178.
     </p>
 
     <p>
@@ -45,11 +47,11 @@
 
     <div class="row" style="margin-top:40px;">
       <div class="col-5">
-        <h5>Contact</h5>
+        <h5>Kontakt</h5>
         <ul>
-          <li>Dpt. of Philosophy and History of Philosophy</li>
-          <li>Comenius University in Bratislava</li>
-          <li>Faculty of Arts</li>
+          <li>Katedra filozofie a dejín filozofie</li>
+          <li>Univerzita Komenského v Bratislave</li>
+          <li>Filozofická fakulta</li>
           <li>Gondova 2, P.O.BOX 32</li>
           <li>814 99 Bratislava</li>
           <li><b>e-mail:</b> <a href="mailto:kfdf@fphil.uniba.sk">kfdf (at)
@@ -58,19 +60,19 @@
       </div>
       <div class="col-2" style="padding-top:20px;">
         <a class="image-link"
-           href="https://fphil.uniba.sk/en/"
+           href="https://fphil.uniba.sk/"
            title="Choď na stránku Filozofickej fakulty Komenského Univerzity v Bratislave.">
 	        <img src="theme/images/loga/logo_fakulty.svg"
-               alt="Faculty of Arts" />
+               alt="Filozofická fakulta" />
         </a>
       </div>
       <div class="col-5" style="padding-top:20px;">
         <a class="image-link"
-           href="https://www.apvv.sk/?lang=en"
+           href="https://www.apvv.sk/"
            title="Choď na stránku Agentúry na podporu výskumu a vývoja."
         >
           <img src="theme/images/loga/logo_apvv.png"
-               alt="Slovak Research and Development Agency" />
+               alt="Agentúra na podporu výskumu a vývoja" />
         </a>
       </div>
     </div>
@@ -84,28 +86,41 @@
 </section>
 
 <section id="content" class="body">
-  <ol id="posts-list" class="hfeed">
+  <ol id="posts-list" style="padding-left:0px" class="hfeed">
     {% for article in articles[:3] %}
-    <li>
-      <article class="hentry">
-        <header>
-          <h2 class="small-entry-title">
-            <a href="{{ SITEURL }}/{{ article.url }}"
-               rel="bookmark"
-               title="Permalink to {{ article.title|striptags }}">
-              {{ article.title }}
-            </a>
-          </h2>
-	        {% include 'article_infos.html' %}
-        </header>
-
-        <div class="entry-content">
-          {{ article.summary }}
-        </div><!-- /.entry-content -->
+    <li class="article-teaser {% if loop.first %} first-teaser {% endif %} {% if loop.last %} last-teaser {% endif %}">
+      <article class="">
+        <div class="card mb-3">
+          <div class="row g-0">
+            {% if article.photo_image %}
+            <div class="col-md-3">
+              <img src="{{ SITEURL }}/{{ article.photo_image[1] }}" class="img-fluid" alt="..." />
+            </div>
+            {% endif %}
+            <div class="col-md">
+              <div class="card-body">
+                <h2 class="card-title">
+                  <a href="{{ SITEURL }}/{{ article.url }}"
+                     rel="bookmark"
+                     title="Permalink to {{ article.title|striptags }}">
+                    {{ article.title }}
+                  </a>
+                </h2>
+                <p class="card-text">
+                  <small class="text-muted">
+                    {% include 'article_infos.html' %}
+                  </small>
+                </p>
+                <p class="card-text">
+                  {{ article.summary }}
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
       </article>
 
       {% if not loop.last  %}
-      <hr class="hr1">
       {% endif %}
 
     </li>

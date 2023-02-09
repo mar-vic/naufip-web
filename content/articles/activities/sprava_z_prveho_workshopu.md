@@ -1,9 +1,11 @@
-Title: Správa z prvého workshopu
+Title: (Neo) Aristotelovský naturalizmus
+type: správa z workshopu
 Date: 2019-12-02 17:15
 slug: prvy_workshop_sprava
 summary: V stredu 6. novembra 2019 sa na pôde Filozofickej fakulty UK uskutočnil prvý z plánovanej série workshopov venovaných rozličným aspektom a otázkam naturalizmu ako univerzálneho filozofického programu. Témou workshopu bola ľudská prirodzenosť v perspektíve aristotelovskej a neoaristotelovskej filozofie. Prinášame krátku správu z tohto podujatia.
 lang: sk
-gallery: prvy_workshop
+gallery: {photo}prvy_workshop
+image: {photo}teasers/prvy_workshop.png
 
 V stredu 6. novembra 2019 sa na pôde Filozofickej fakulty UK uskutočnil prvý z
 plánovanej série workshopov venovaných rozličným aspektom a otázkam naturalizmu
@@ -13,6 +15,8 @@ Pozvanie na workshop prijali hostia Doc. Mgr. Petr Dvořák, PhD., ktorý pôsob
 Akadémii vied Českej republiky a Univerzite Palackého v Olomouci a Doc. Mgr.
 Marian Kuna, MA, MPhil, PhD. z Katolíckej univerzity v Ružomberku. Domáci
 riešiteľský kolektív zastupoval vedúci projektu Prof. Mgr. Michal Chabada, PhD.
+
+<img class="left" src="{static}/photos/prvy_workshop/workshop_i_5.jpg">
 
 Petr Dvořák vo svojej prezentácii tematizoval problém prirodzených druhov a
 esencializmu. Priblížil koncepciu ľudskej prirodzenosti ako súboru dispozícií a
@@ -34,4 +38,3 @@ systematické skúmanie a reflexia Aristotelovej (resp. aristotelovskej)
 filozofie. Jej potenciál bol podčiarknutý viacerými poznámkami, týkajúcimi sa
 možnej kombinovateľnosti tejto filozofie so súčasnými biologizujúcimi či
 evolučnými pohľadmi na človeka.
-

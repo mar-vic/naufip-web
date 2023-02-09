@@ -2,6 +2,7 @@ Title: Workshop II: Naturalizmus Medzi Epistemológiou a Etikou
 Date: 2020-09-02 16:32
 slug: druhy_workshop
 summary: V septembri (17.09) plánujeme uskutočniť druhý workshop organizovaný v rámci nášho výskumného projektu. Bude venovaný naturalistickým tendenciám v súčasnej epistemológii a morálnej epistemológii. Na podujatí vystúpia doktor Martin Nuhlíček (FF UK Bratislava), doktor Filip Tvrdý (FF UP Olomouc), a magistra Petra Chudárková (FF UP Olomouc).
+status: hidden
 lang: sk
 
 Vo štvrtok 17. septembra 2020 sa uskutoční druhý workshop organizovaný v rámci

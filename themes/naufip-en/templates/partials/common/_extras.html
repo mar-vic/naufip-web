@@ -2,13 +2,11 @@
   {% if LINKS %}
   <div class="blogroll">
     <h2>{{ LINKS_WIDGET_NAME | default('links') }}</h2>
-    <div class="row">
+    <ul>
       {% for name, link in LINKS %}
-      <div class="col-4">
-        <a href="{{ link }}">{{ name }}</a>
-      </div>
+      <li><a href="{{ link }}">{{ name }}</a></li>
       {% endfor %}
-    </div>
-  </div>
+    </ul>
+  </div><!-- /.blogroll -->
   {% endif %}
 </section><!-- /#extras -->

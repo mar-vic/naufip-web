@@ -1,6 +1,15 @@
 <div class="article-infos">
+
   <i class="fa fa-calendar" title="Dátum publikácie"></i>
   <abbr class="pub-date" title="{{ article.date.strftime('%d. %B %Y') }}">
     {{ article.date.strftime("%Y-%m-%d") }}
   </abbr>
+
+  {% if article.type %}
+  <i style="margin-left:15px;" class="fa-solid fa-tag"></i>
+  <abbr>
+    {{ article.type }}
+  </abbr>
+  {% endif %}
+
 </div>

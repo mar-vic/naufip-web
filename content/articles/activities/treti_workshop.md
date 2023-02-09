@@ -2,7 +2,9 @@ Title: Workshop III: O Ľudskej/Ženskej Prirodzenosti, Naturalistické a Konšt
 Date: 2020-11-26 16:32
 slug: treti_workshop
 summary: V decembri (08.12) sa uskutoční už tretí z našej série workshopov. Tentoraz bude venovaný naturalistickým a konštruktivistickým prístupom v myslení o ľudskej, resp. ženskej prirodzenosti.
+status: hidden
 lang: sk
+image: {photo}teasers/treti_workshop.png
 
 Workshop sa uskutoční v utorok 8. decembra formou online konferencie (informácie o
 pripojení zverejníme neskôr). Na podujatí vystúpi Doc. Petr Dvořák, PhD. (CMTF

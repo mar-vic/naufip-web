@@ -1,9 +1,11 @@
-Title: Report From Our Second Workshop
+Title: Naturalism Between Epistemology and Ethics
+type: workshop report
 Date: 2020-09-23 17:15
 slug: second_workshop_report
 summary: Our second workshop has taken the place on thursday the 17th of september 2020. The workshop centered around the questions of naturalism in epistemology and ethics, more specifically of naturalistic positions on their intersections. We bring you a short report from the event.
 lang: en
-gallery: second_workshop
+gallery: {photo}druhy_workshop
+image: {photo}teasers/druhy_workshop.jpg
 
 The second in our series of workshops has taken the place on thursday the 17th
 of september 2020. Workshop was dedicated to the questions of naturalism in
@@ -11,6 +13,8 @@ epistemology and ethics, in particular to the naturalistic positions on their
 intersections. Two foreign guests from Philosophical Faculty of Placaký
 University Olomouc have presented their ideas: Mgr. Filip Tvrdý, Ph.D. a Mgr.
 Petra Chudárková. Our own team was represented by Mgr. Martin Nuhíček, PhD.
+
+<img class="left" src="{static}/photos/druhy_workshop/druhy_workshop-2.jpg">
 
 In the first talk "Versions of naturalism in epistemology", Martin Nuhlíček has
 characterized naturalistic positions in contemporary epistemology relative to
@@ -24,6 +28,8 @@ beliefs, and metacognitive incompetence, which amounts to one being to unable or
 unwilling to recognize ones errors, are two principal epistemic vices. Tvrdý
 also claimed that these vices can be naturalized with the help of various
 investigations in psychology and cognitive sciences.
+
+<img class="right" src="{static}/photos/druhy_workshop/druhy_workshop-3.jpg">
 
 Finally, in her presentation "Naturalism in moral epistemology", Petra Chudárková
 first considered some ways in which intuitionism and coherentism

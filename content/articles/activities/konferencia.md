@@ -2,7 +2,9 @@ Title: Konferencia: Naturalistický obraz sveta: Výzvy a hranice
 Date: 2021-08-30 16:32
 slug: konferencia
 summary: V dňoch 2. a 3. septembra 2021 sa na pôde Filozofickej fakulty UK uskutoční medzinárodná vedecká konferencia: NATURALISTICKÝ OBRAZ SVETA: VÝZVY A HRANICE (NATURALISTIC IMAGE OF THE WORLD: CHALLENGES AND LIMITS).
+status: hidden
 lang: sk
+image: {photo}teasers/konferencia.png
 
 V dňoch 2. a 3. septembra 2021 sa na pôde Filozofickej fakulty UK uskutoční medzinárodná vedecká konferencia: NATURALISTICKÝ OBRAZ SVETA: VÝZVY A HRANICE (NATURALISTIC IMAGE OF THE WORLD: CHALLENGERS AND LIMITS). Konferencia sa bude konať v miestnosti G-236 na 2. poschodí fakultnej budovy na Gondovej ulici v Bratislave.
 

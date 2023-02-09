@@ -1,8 +1,13 @@
 Title: Naturalizmus vo filozofii mysle a vedomia
+type: správa z workshopu
 Date: 2021-12-10
 slug: stvrty_workshop_sprava
 summary: Náš štvrtý workshop sa konal 3. 12. 2021, opäť vo forme online konferencie. Témou workshopu bol naturalizmus vo filozofii mysle a vedomia. Prinášame krátku správu z podujatia.
 lang: sk
+gallery: {photo}stvrty_workshop
+image: {photo}teasers/stvrty_workshop.jpeg
+
+<img class="right" src="{static}/photos/stvrty_workshop/fourth_workshop_1.jpg">
 
 V rámci výskumného projektu APVV-18-0178, ktorého nositeľom a riešiteľom je
 Katedra filozofie a dejín filozofie sa 3. 12. 2021 konal ďalší pracovný workshop
@@ -15,8 +20,7 @@ významne prispievajú k “naturalizácii” mysle a vedomia. Takouto teóriou 
 “iluzionizmus”, ktorý vo svojom príspevku predstavila  Mgr. Katarína Sklutová z
 Katedry filozofie a dejín filozofie.
 
-
-<img src="{static}/images/fourth_workshop_1.png" style="width:760px">
+<img class="left" src="{static}/photos/stvrty_workshop/fourth_workshop_2.jpg">
 
 Iluzionizmus, ako jednu z teoretických pozícií v súčasnej filozofii vedomia,
 sformuloval Keith Frankish vo svojom článku Illusionism as a Theory of
@@ -39,8 +43,6 @@ vlastnosti (fenomenálny charakter, kvália) vedomia, ktoré sa takémuto výsku
 vyhýbajú, tak to vo svetle našej naturalistickej teórie urobíme. Ako iluzionisti
 tvrdia: vedomie nemusí byť tým, čím sa zdá byť.
 
-<img src="{static}/images/fourth_workshop_5.png" style="width:760px">
-
 Obidva príspevky vyvolali živú diskusiu a polemiku, v ktorej centre boli otázky
 ľudskej subjektivity, introspekcie a tzv. Problém kválií. Workshop poskytol
 viacero podnetov na ďalšiu prácu v rámci projektu a preukázal jeho aktuálne
@@ -48,7 +50,8 @@ napojenie na hlavné trendy súčasnej svetovej filozofie v tejto oblasti. Obraz
 záznam z workshopu bude publikovaný na stránke Katedry filozofie a dejín
 filozofie.
 
-Záznam workshopu si môžete pozrieť tu:
-<iframe width="760" height="415" src="https://www.youtube.com/embed/n3ACu6uIV6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 *Autorom textu je prof. Emil Višňovský a pôvodne bol publikovaný na [stránkch Univerzity Komenského](https://cdv.uniba.sk/detail-aktuality/back_to_page/mediacia-vyuzitie-komunikacie-s-prvkami-mediacnych-zrucnosti-v-skolskej-praxi-riesenia-ko/article/naturalizmus-vo-filozofii-mysle-a-vedomia/).*
+
+Záznam workshopu si môžete pozrieť tu:
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/n3ACu6uIV6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+

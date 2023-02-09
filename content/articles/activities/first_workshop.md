@@ -2,6 +2,7 @@ Title: Workshop I: (Neo) Aristotelian Naturalism
 Date: 2019-10-23 16:32
 slug: first_workshop
 summary: We are happy to announce that our first workshop will take place in november. It will be dedicated to the subject of human nature as understood through the lens of aristotelian and neoaristotelian philosophy. Three speakers will present their ideas at the workshop: NAUFIP's principal investigator professor Michal Chabada, doc. Petr Dvořák from Czech Academy of Sciences, and doc. Marián Kuna from Catholic University in Ružomberok.
+status: hidden
 lang: en
 
 Our first workshop will take place on wednesday 6.11. 2019. The topics

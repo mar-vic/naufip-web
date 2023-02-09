@@ -67,7 +67,7 @@ Chabada, M. – Maco, R. (eds.) (2021): [Varieties of Naturalism in Contemporary
 
 * [Ľudská prirodzenosť a morálka: pohľad D. Huma]({static}/publikacie/prezentacie/prirodzenost_moralka_hume(szapuova).pdf) (Mariana Szapuová) - prezentácia k príspevku, ktorý odznel na konferencii Etické teórie - neetická prax, organizovanej SFZ pri SAV v dňoch 19. - 21. 10. 2022 v Starej Lesnej.
 
-* [Etické implikácie iluzionistickej pozície vedomia]({static}/publikacie/prezentacie/moralka_iluzionizmus(sklutova).pdf) (Katarína Sklutová) - prezentácia k príspevku, ktorý odznel na konferencii Etické teórie - neetická prax, organizovanej SFZ pri SAV v dňoch 19. - 21. 10. 2022 v Starej Lesnej.
+* [Etické implikácie iluzionistickej pozície vedomia]({static}/publikacie/prezentacie/eticke_implikacie_iluzionizmu(sklutova).pdf) (Katarína Sklutová) - prezentácia k príspevku, ktorý odznel na konferencii Etické teórie - neetická prax, organizovanej SFZ pri SAV v dňoch 19. - 21. 10. 2022 v Starej Lesnej.
 
 * [Morálka z pohľadu naturalizmu]({static}/publikacie/prezentacie/moralka_podla_naturalizmu(maco).pdf) (Róbert Maco) - prezentácia k príspevku, ktorý odznel na konferencii _Etické teórie - neetická prax_, organizovanej SFZ pri SAV v dňoch 19. - 21. 10. 2022 v Starej Lesnej.
 

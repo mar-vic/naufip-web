@@ -74,10 +74,13 @@
         Obrazový záznam z prvého workshopu
       </h1>
 <div class="article-infos">
+
   <i class="fa fa-calendar" title="Dátum publikácie"></i>
   <abbr class="pub-date" title="08. November 2019">
     2019-11-08
   </abbr>
+
+
 </div>    </header>
 
     <div class="entry-content">
@@ -88,9 +91,7 @@ vystúpili člen nášho výskumného tímu prof. Michal Chabada, doc. Petr Dvo�
 Prinášame niekoľko fotiek z tohto podujatia.</p>
     </div>
 
-    <!-- GALLERY -->
-
-    <!-- PHOTO -->
+    <!--  GALLERY (defined as partial) -->
 
   </article>
 </section>
@@ -124,21 +125,21 @@ Prinášame niekoľko fotiek z tohto podujatia.</p>
 
     if ( years >= 1) {
       if ( years >= 2) {
-        return 'Pred ' + years + ' rokmi';
+        return 'pred ' + years + ' rokmi';
       }
-      return 'Pred rokom';
+      return 'pred rokom';
     } else if (months >= 1) {
       if (months  >= 2) {
-        return 'Pred ' + months + ' mesiacmi';
+        return 'pred ' + months + ' mesiacmi';
       }
-      return 'Pred mesiacom';
+      return 'pred mesiacom';
     } else if (age >= 1) {
       if (age >= 2) {
-        return 'Pred ' + age + ' dňami'
+        return 'pred ' + age + ' dňami'
       }
-      return 'Včera'
+      return 'včera'
     } else {
-      return 'Dnes';
+      return 'dnes';
     }
   }
   const pubDates = document.getElementsByClassName('pub-date');

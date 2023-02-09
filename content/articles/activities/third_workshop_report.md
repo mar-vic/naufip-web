@@ -1,8 +1,11 @@
-Title: Report From Third Workshop
+Title: Naturalistic and Constructivist Approaches to Human / Women Nature
+type: workshop report
 Date: 2020-12-30 17:15
 slug: third_workshop_report
 summary: Our third workshop took place on the 8. 12. 2020, this time in the form of online conference. The topic of the workshop was a confrontation of naturalistic and constructivist approaches to the investigation of human nature specifically in relation to sex and gender. We bring you a short report from the event.
 lang: en
+gallery: {photo}treti_workshop
+image: {photo}teasers/treti_workshop.png
 
 Our third workshop took place on the 8. 12. 2020, this time in the form of
 online conference. The topic of the workshop was a confrontation of naturalistic
@@ -13,7 +16,7 @@ presentation. Our own team was represented by Doc. PhDr. Mariana Szapuová, PhD.
 from the Department of Philosophy and History of Philosophy at Comenius
 University and the Center of Gender Studies.
 
-<img src="{static}/images/workshop_III_01.jpg" style="width:760px">
+<img class="left" src="{static}/photos/prvy_workshop/workshop_i_5.jpg">
 
 The presentation of Doc. Szapuová was concerned with the use of the concept of
 „gender“ in feminist philophy. She identified the historical origins of the
@@ -32,8 +35,6 @@ Construction of Reality* (1966/1999)), she clarified the conception of gender as
 a form of social construction. At the end of her presentation, Doc. Szapuová
 introduced some critiques of the concept of gender from the standpoint of
 feminist philosophy.
-
-<img src="{static}/images/workshop_III_02.jpg" style="width:760px">
 
 The aim of Doc. Dvořák presentation was to criticize the constructivist
 approaches to gender. He distinguished two conceptions of gender - gender as a

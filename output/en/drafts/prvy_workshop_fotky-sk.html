@@ -3,7 +3,7 @@
 <head>
         <meta charset="utf-8" />
         <title>Obrazový záznam z prvého workshopu</title>
-	<meta property="og:image" content="/en/images/naufip.jpg" />
+	<meta property="og:image" content="/en/theme/images/naufip.jpg" />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="www.naufip.sk" />
 	<meta property="og:title" content="NAUFIP - Naturalizmus ako univerzálny filozofický program" />
@@ -61,6 +61,7 @@
         </div>
       </div>
     </div>
+
   </nav>
 
 </header><!-- /#banner -->
@@ -73,10 +74,13 @@
         Obrazový záznam z prvého workshopu
       </h1>
 <div class="article-infos">
+
   <i class="fa fa-calendar" title="Dátum publikácie"></i>
   <abbr class="pub-date" title="08. November 2019">
     2019-11-08
   </abbr>
+
+
 </div>    </header>
 
     <div class="entry-content">
@@ -87,7 +91,7 @@ vystúpili člen nášho výskumného tímu prof. Michal Chabada, doc. Petr Dvo�
 Prinášame niekoľko fotiek z tohto podujatia.</p>
     </div>
 
-    <!-- GALLERY -->
+    <!--  GALLERY (defined as partial) -->
 
   </article>
 </section>
@@ -96,18 +100,12 @@ Prinášame niekoľko fotiek z tohto podujatia.</p>
 <section id="extras" class="body">
   <div class="blogroll">
     <h2>links</h2>
-    <div class="row">
-      <div class="col-4">
-        <a href="https://fphil.uniba.sk/en/departments-and-research-centres/department-of-philosophy-and-history-of-philosophy/">Department of Philosophy and History of Philosophy</a>
-      </div>
-      <div class="col-4">
-        <a href="https://www.apvv.sk/?lang=en">Slovak Research and Development Agency</a>
-      </div>
-      <div class="col-4">
-        <a href="https://www.facebook.com/kfdf.fif.uk/">Follow us on Facebook</a>
-      </div>
-    </div>
-  </div>
+    <ul>
+      <li><a href="https://fphil.uniba.sk/en/departments-and-research-centres/department-of-philosophy-and-history-of-philosophy/">Department of Philosophy and History of Philosophy</a></li>
+      <li><a href="https://www.apvv.sk/?lang=en">Slovak Research and Development Agency</a></li>
+      <li><a href="https://www.facebook.com/kfdf.fif.uk/">Follow us on Facebook</a></li>
+    </ul>
+  </div><!-- /.blogroll -->
 </section><!-- /#extras -->
   <!-- SITE FOOTER -->
 <footer id="contentinfo" class="body">
@@ -129,19 +127,19 @@ Prinášame niekoľko fotiek z tohto podujatia.</p>
       if ( years >= 2) {
         return  years + ' years ago';
       }
-      return 'One year ago';
+      return 'one year ago';
     } else if (months >= 1) {
       if (months  >= 2) {
         return months + ' months ago';
       }
-      return 'One month ago';
+      return 'one month ago';
     } else if (age >= 1) {
       if (age >= 2) {
         return age + ' days ago'
       }
-      return 'Yesterday'
+      return 'yesterday'
     } else {
-      return ' Today';
+      return ' today';
     }
   }
   const pubDates = document.getElementsByClassName('pub-date');

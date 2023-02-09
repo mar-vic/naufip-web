@@ -74,10 +74,13 @@
         Some Photos From Our First Workshop
       </h1>
 <div class="article-infos">
+
   <i class="fa fa-calendar" title="Dátum publikácie"></i>
   <abbr class="pub-date" title="08. November 2019">
     2019-11-08
   </abbr>
+
+
 </div>    </header>
 
     <div class="entry-content">
@@ -88,9 +91,7 @@ have presented their ideas on various issues related to (neo)aristotelian views
 on human nature. Here are some photos from the event.</p>
     </div>
 
-    <!-- GALLERY -->
-
-    <!-- PHOTO -->
+    <!--  GALLERY (defined as partial) -->
 
   </article>
 </section>
@@ -124,21 +125,21 @@ on human nature. Here are some photos from the event.</p>
 
     if ( years >= 1) {
       if ( years >= 2) {
-        return 'Pred ' + years + ' rokmi';
+        return 'pred ' + years + ' rokmi';
       }
-      return 'Pred rokom';
+      return 'pred rokom';
     } else if (months >= 1) {
       if (months  >= 2) {
-        return 'Pred ' + months + ' mesiacmi';
+        return 'pred ' + months + ' mesiacmi';
       }
-      return 'Pred mesiacom';
+      return 'pred mesiacom';
     } else if (age >= 1) {
       if (age >= 2) {
-        return 'Pred ' + age + ' dňami'
+        return 'pred ' + age + ' dňami'
       }
-      return 'Včera'
+      return 'včera'
     } else {
-      return 'Dnes';
+      return 'dnes';
     }
   }
   const pubDates = document.getElementsByClassName('pub-date');

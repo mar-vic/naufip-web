@@ -2,6 +2,7 @@ Title: Workshop II: Naturalism Between Epistemology and Ethics
 Date: 2020-02-09 16:32
 slug: second_workshop
 summary: We are happy to announce that our second workshop will take place in september. It will be dedicated to the subject of naturalistic tendencies in contemporary (moral) epistemology. Three speakers will present their ideas at the event: NAUFIP's member Mgr. Martin Nuhlíček, Phd, Mgr. Filip Tvrdý, Phd (FF UP Olomouc), and Mgr. Petra Chudárková (FF UP Olomouc).
+status: hidden
 lang: en
 
 Our second workshop will take place on thursday 17.09. 2020. The topics dealt

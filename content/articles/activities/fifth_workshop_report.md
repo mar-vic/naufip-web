@@ -1,8 +1,11 @@
 Title: The Concept of Nature in Mathematical Physics
+type: workshop report
 Date: 2021-12-10
 slug: fifth_workshop_report
 summary: The fifth of our workshops took place on the 17. 12. 2021, again in the form of online conference. The topic of the workshop was the concept of nature in the mathematical physics and the naturalized philosophy of physics. We bring you a short report from the event.
 lang: en
+gallery: {photo}piaty_workshop
+image: {photo}teasers/piaty_workshop.jpeg
 
 Our fifth workshop took place on 17. 12. 2021, again in the form of online
 conference. Its main topics were the concept of nature in mathematical physics
@@ -13,12 +16,12 @@ speaker was one of our researchers Mgr. Róbert Maco, PhD. from the Department o
 Philosophy and History of Philosophy of the Faculty of Arts of Comenius
 University in Bratislava. 
 
-<img src="{static}/images/fifth_workshop_1.png" style="width:760px">
-
 At the beginning of the event dr. Adam Greif introduced the speakers by way of
 highlighting some of their published works closely related to the topic at hand.
 Then he summarized the content and argumentative strategy of both contributions
 on the basis of previously provided annotations. 
+
+<img class="right" src="{static}/photos/piaty_workshop/fifth_workshop_1.jpg">
 
 Prof. Ladislav Kvasz was the first one to present his ideas under the title „The
 Conception of Nature in Mathematical Physics“. The main aim of this presentation
@@ -38,9 +41,8 @@ consequence of this reduction is so called deductive synthesis, or the
 linguistic capacity to infer deductively from a state at given time a state at
 subsequent times. 
 
-<img src="{static}/images/fifth_workshop_2.png" style="width:760px">
 
-the presentation of prof. kvasz prompted an extensive discussion. some workshop
+The presentation of prof. kvasz prompted an extensive discussion. some workshop
 participants asked prof. kvasz to clarify some of the technical terms he
 used in the presentation (e.g., the concepts of
 epistemic contact, epistemic axis, reduction etc.). prof. kvasz has also
@@ -50,7 +52,7 @@ to be important was the question of whether or how it is possible to
 (re)identify one and the same object presented through the lenses of different
 theoretical conceptions.  
 
-<img src="{static}/images/fifth_workshop_3.png" style="width:760px">
+<img class="left" src="{static}/photos/piaty_workshop/fifth_workshop_3.jpg">
 
 The second presentation, given by dr. Róbert Maco, was titled as „Naturalised
 Philosophy of Physics (between mathematics and physics)“. Dr. Maco started with
@@ -74,8 +76,6 @@ combination of electromagnetism and quantum mechanics. According to the authors
 of the 1959 paper, these effects force us to fundamentally rethink the
 physical nature of certain quantities. 
 
-<img src="{static}/images/fifth_workshop_4.png" style="width:760px">
-
 Subsequent discussion was centered around two crucial points - the proposed form
 of the relation between the philosophy of physics and physics and the adequacy
 of the illustration given in the presentation relative to its main aim. Workshop
@@ -86,4 +86,4 @@ actual physical research was a reminder that the contemporary theoretical and
 mathematical physics is extremely technically demanding. 
 
 The record from the workshop can be viewed here:
-<iframe width="760" height="415" src="https://www.youtube.com/embed/RPB1C6iqRv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="415" src="https://www.youtube.com/embed/RPB1C6iqRv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,9 +1,11 @@
 Title: Report From Our First Workshop
+type: workshop report
 Date: 2019-12-02 17:15
 slug: first_workshop_report
 summary: Our first workshop has taken the place on wednesday the 6th of november 2019. The workshop was dedicated to the issue of human nature as seen from the perspective of aristotelian and neoaristotelian philosophy. We bring you a short report from the event.
 lang: en
-gallery: first_workshop
+gallery: {photo}prvy_workshop
+image: {photo}teasers/prvy_workshop.png
 
 The first of our series of workshops dedicated to various aspects and
 questions of naturalism conceived as an universal philosophcal programme has
@@ -14,6 +16,8 @@ their ideas at the event: Doc. Mgr. Petr Dvořák, PhD. from the Czech Academy o
 Sciences and Palacký University in Olomouc, and Doc. Mgr. Marian Kuna, MA,
 MPhil, PhD. form the Catholic University in Ružomberok. Our own team was
 represented by projects' principal investigator Prof. Mgr. Michal Chabada, PhD.
+
+<img class="left" src="{static}/photos/prvy_workshop/workshop_i_5.jpg">
 
 Petr Dvořák has spoken about the problem of natural kinds and essentialism. He has
 focused on M. Nussbaums' conception of human nature as a collection of

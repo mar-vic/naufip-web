@@ -2,6 +2,7 @@ Title: Workshop III: On Human/Women Nature, Naturalistic and Constructivist Appr
 Date: 2020-11-26 16:32
 slug: third_workshop
 summary: Our third workshop will take place in december (08.12). It will be dedicated to the subject of naturalistic and constructivist approaches in thought about the concept of gender.
+status: hidden
 lang: en
 
 The workshop will take place on tuesday 8.12 2020 as an online conference (the

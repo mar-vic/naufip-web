@@ -24,12 +24,8 @@
       {{ article.content }}
     </div>
 
-    <!-- GALLERY -->
-    {% if article.photo_gallery %}
-    <div class="gallery">
-      {{ article.photo_gallery }}
-    </div>
-    {% endif %}
+    <!--  GALLERY (defined as partial) -->
+    {% include "./partials/_article-gallery.html" %}
 
   </article>
 </section>

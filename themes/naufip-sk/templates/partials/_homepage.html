@@ -83,28 +83,41 @@
 </section>
 
 <section id="content" class="body">
-  <ol id="posts-list" class="hfeed">
+  <ol id="posts-list" style="padding-left:0px" class="hfeed">
     {% for article in articles[:3] %}
-    <li>
-      <article class="hentry">
-        <header>
-          <h2 class="small-entry-title">
-            <a href="{{ SITEURL }}/{{ article.url }}"
-               rel="bookmark"
-               title="Permalink to {{ article.title|striptags }}">
-              {{ article.title }}
-            </a>
-          </h2>
-	        {% include 'article_infos.html' %}
-        </header>
-
-        <div class="entry-content">
-          {{ article.summary }}
-        </div><!-- /.entry-content -->
+    <li class="article-teaser {% if loop.first %} first-teaser {% endif %} {% if loop.last %} last-teaser {% endif %}">
+      <article class="">
+        <div class="card mb-3">
+          <div class="row g-0">
+            {% if article.photo_image %}
+            <div class="col-md-3">
+              <img src="{{ SITEURL }}/{{ article.photo_image[1] }}" class="img-fluid" alt="..." />
+            </div>
+            {% endif %}
+            <div class="col-md">
+              <div class="card-body">
+                <h2 class="card-title">
+                  <a href="{{ SITEURL }}/{{ article.url }}"
+                     rel="bookmark"
+                     title="Permalink to {{ article.title|striptags }}">
+                    {{ article.title }}
+                  </a>
+                </h2>
+                <p class="card-text">
+                  <small class="text-muted">
+                    {% include 'article_infos.html' %}
+                  </small>
+                </p>
+                <p class="card-text">
+                  {{ article.summary }}
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
       </article>
 
       {% if not loop.last  %}
-      <hr class="hr1">
       {% endif %}
 
     </li>

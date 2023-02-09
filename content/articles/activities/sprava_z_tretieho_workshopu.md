@@ -1,8 +1,11 @@
-Title: Správa z tretieho workshopu
+Title: O Ľudskej/Ženskej Prirodzenosti, Naturalistické a Konštruktivistické Prístupy
+type: správa z workshopu
 Date: 2020-12-30 17:15
 slug: treti_workshop_sprava
 summary: V utorok 8. 12. 2020 sa konal už tretí zo série plánovaných workshopov v rámci projektu APVV Naturalizmus ako univerzálny filozofický program, tentokrát formou online konferencie. Témou workshopu bola konfrontácia naturalistických a konštruktivistických prístupov ku skúmaniu ľudskej prirodzenosti z perspektívy pohlavia/rodu. Prinášame krátku správu z podujatia.
 lang: sk
+gallery: {photo}treti_workshop
+image: {photo}teasers/treti_workshop.png
 
 V utorok 8. 12. 2020 sa konal už tretí zo série plánovaných workshopov v rámci
 projektu APVV Naturalizmus ako univerzálny filozofický program, tentokrát formou
@@ -15,8 +18,8 @@ riešiteľský kolektív reprezentovala Doc. PhDr. Mariana Szapuová, PhD., ktor
 pôsobí na Katedre filozofie a dejín filozofie Filozofickej fakulty Univerzity
 Komenského v Bratislave a v Centre rodových štúdií. 
 
+<img class="left" src="{static}/photos/treti_workshop/workshop_iii_01.jpg">
 
-<img src="{static}/images/workshop_III_01.jpg" style="width:760px">
 
 Doc. Szapuová  sa vo svojej  prezentácii venovala problematike  používania pojmu
 „rod“  vo  feministickej  filozofii.  Z  historickej  perspektívy  poukázala  na
@@ -34,8 +37,7 @@ konštruktivizmu  v  sociológii (P.  Berger,  T.  Luckmann: Sociálna  konštru
 reality (1966/1999)) objasnila chápanie rodu ako sociálneho konštruktu. V závere
 spomenula niektoré kritiky konceptu rodu v rámci feministickej filozofie.
 
-
-<img src="{static}/images/workshop_III_02.jpg" style="width:760px">
+<img class="right" src="{static}/photos/treti_workshop/workshop_iii_02.jpg">
 
 Doc.  Dvořák sa  vo  svojom príspevku  zameral  na kritiku  konštruktivistických
 prístupov k  rodu (genderu).  V úvode  rozlíšil dvojaké  chápanie genderu  – ako
@@ -53,11 +55,11 @@ zakotvenosti  genderu.   V  závere  argumentoval  proti   názorom  feministick
 filozofky Judith  Butler (Bodies That  Matter (1993)), najmä proti  jej chápaniu
 rodu ako výsledku performatívnych rečových aktov.
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fkfdf.fif.uk%2Fvideos%2F387793585783522%2F&show_text=false&width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
-
 Prezentácie podnietili živú diskusiu, aj na základe rozdielnosti filozofických
 pozícii oboch prednášajúcich. Diskusia bola zameraná na otázky týkajúce sa
 biologickej podmienenosti rodových rolí, na precizovanie ústredných pojmov a
 objasnenie teoretických pozícií. Témou debaty boli aj niektoré otázky
 metodológie vedeckých výskumov, viacerí diskutujúci zdôraznili rozdiel medzi
 zaznamenaním korelácie dvoch charakteristík a dôkazom kauzality medzi nimi. 
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fkfdf.fif.uk%2Fvideos%2F387793585783522%2F&show_text=false&width=560" width="100%" height="500px" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
