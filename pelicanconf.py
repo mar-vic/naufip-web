@@ -47,10 +47,7 @@ MENUITEMS = [('Domov','/'),
              ('O projekte','/pages/o-projekte.html'),
              ('Riešiteľský kolektív','/pages/riesitelsky-kolektiv.html'),
              ('Aktivity', '/category/activities.html'),
-              # '/pages/aktivity.html'),
              ('Výstupy','/pages/vystupy.html')
-             # ('Médiá','/category/media.html')
-             # ('EN','/en/')
              ]
 
 DISPLAY_CATEGORIES_ON_MENU = False
@@ -63,11 +60,6 @@ LINKS = (('Katedra filozofie a dejín filozofie',
           'https://www.apvv.sk/'),
          ('Sledujte nás na Facebooku',
           'https://www.facebook.com/kfdf.fif.uk/'),)
-
-# Social widget
-# SOCIAL = (('You can add links in your config file', '#'),
-#           ('Another social link', '#'),)
-
 
 LOAD_CONTENT_CACHE = False
 
