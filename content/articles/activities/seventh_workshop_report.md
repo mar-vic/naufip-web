@@ -2,12 +2,12 @@ Title: Society and Nature
 type: workshop report
 Date: 2022-11-25
 slug: seventh_workshop_report
-summary: V piatok 11. 11. 2022 sa konal v poradí siedmy workshop v rámci projektu APVV „Naturalizmus ako univerzálny filozofický program“. Hlavnou témou workshopu bol vzťah spoločnosti a prírody, ktorý sa dotýka tak sociálno-politických, ako aj environmentálnych problémov. Prinášame Vám správu z tohto podujatia.
+summary: Our seventh workshop took place on friday 11. 11. 2022. The topic was centered around the relationship between society and nature, touching upon socio-politic as well as environemntal issues. read our short report from the event.
 lang: en
 gallery: {photo}siedmy_workshop
 image: {photo}teasers/siedmy_workshop.png
 
-Our seventh workshop took place on friday 11. 11. 2022.  The topic workshopu bol vzťah spoločnosti a prírody, ktorý sa dotýka tak sociálno-politických, ako aj environmentálnych problémov. Ako prvý prednášajúci vystúpil člen riešiteľského kolektívu doc. PhDr. Ivan Buraj, PhD., ktorý pôsobí na Katedre filozofie a dejín filozofie Filozofickej fakulty UK v Bratislave s príspevkom „Dva modely – dva spôsoby riešenia vzťahu spoločnosti a prírody“. Následne vystúpil hosť doc. Mgr. Richard Sťahel, PhD., ktorý pôsobí na Filozofickom ústave v.v.i Slovenskej akadémie vied v Bratislave s príspevkom „Dva modely politicky organizovaného vzťahu spoločnosti a prírody: Industriálna a environmentálna demokracia“.
+Our seventh workshop took place on friday 11. 11. 2022.  Hlavnou témou workshopu bol vzťah spoločnosti a prírody, ktorý sa dotýka tak sociálno-politických, ako aj environmentálnych problémov. Ako prvý prednášajúci vystúpil člen riešiteľského kolektívu doc. PhDr. Ivan Buraj, PhD., ktorý pôsobí na Katedre filozofie a dejín filozofie Filozofickej fakulty UK v Bratislave s príspevkom „Dva modely – dva spôsoby riešenia vzťahu spoločnosti a prírody“. Následne vystúpil hosť doc. Mgr. Richard Sťahel, PhD., ktorý pôsobí na Filozofickom ústave v.v.i Slovenskej akadémie vied v Bratislave s príspevkom „Dva modely politicky organizovaného vzťahu spoločnosti a prírody: Industriálna a environmentálna demokracia“.
 
 <img class="right" src="{static}/photos/siedmy_workshop/seventh_workshop_1.jpg">
 
