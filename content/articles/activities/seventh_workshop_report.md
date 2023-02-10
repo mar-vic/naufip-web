@@ -2,7 +2,7 @@ Title: Society and Nature
 type: workshop report
 Date: 2022-11-25
 slug: seventh_workshop_report
-summary: Our seventh workshop took place on friday 11. 11. 2022. The topic was centered around the relationship between society and nature, touching upon socio-politic as well as environemntal issues. read our short report from the event.
+summary: Our seventh workshop took place on friday 11. 11. 2022. The topic was centered around the relationship between society and nature, touching upon socio-politic as well as environemntal issues. Read our short report from the event.
 lang: en
 gallery: {photo}siedmy_workshop
 image: {photo}teasers/siedmy_workshop.png
