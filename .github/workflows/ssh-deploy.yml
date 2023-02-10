@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: ssh deploy
         uses: easingthemes/ssh-deploy@v4.0.5
         env:
