@@ -56,6 +56,10 @@ Chabada, M. – Maco, R. (eds.) (2021): [Varieties of Naturalism in Contemporary
 
 ## Presentations
 
+* [From Literary to Philosophical Interpretation of Naturalism]({static}/publikacie/prezentacie/literatura_filozofia_naturalizmus(lalikova).pdf) (Erika Lalíková) - presentation accompanying the talk given on 24. 1. 2023 at the project workshop  "Varieties of Naturalism in the History of Philosophy".
+
+* [La Mettrie's Naturalism]({static}/publikacie/prezentacie/la_mettrie_naturalizmus(pichova).pdf) (Dagmar Pichová) - presentation accompanying the talk given on 24. 1. 2023 at the project workshop  "Varieties of Naturalism in the History of Philosophy".
+
 * [Two Models - Two Ways of Construing the Relationship Between Nature and Society]({static}/publikacie/prezentacie/modely_riesenia_vztahu_spol_prirody(buraj).pdf) (Ivan Buraj) - presentation accompanying the talk given on 11. 11. 2022 at the workshop _Society and Nature_.
 
 * [Two Models of Politically Organised Relationship Between Society and Nature: Industrial and Environental Democracy]({static}/publikacie/prezentacie/modely_politickeho_organizovania_spol_prirody(stahel).pdf) (Richard Sťahel) - presentation accompanying the talk given on 11. 11. 2022 at the workshop _Society and Nature_.

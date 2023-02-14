@@ -61,6 +61,10 @@ Chabada, M. – Maco, R. (eds.) (2021): [Varieties of Naturalism in Contemporary
 
 ## Prezentácie
 
+* [Od literárnej k filozofickej interpretácii naturalizmu]({static}/publikacie/prezentacie/literatura_filozofia_naturalizmus(lalikova).pdf) (Erika Lalíková) - prezentácia k príspevku, ktorý odznel dňa 24. 1. 2023 na projektovom workshope "Podoby naturalizmu v dejinách filozofie".
+
+* [La Mettrieho naturalizmus]({static}/publikacie/prezentacie/la_mettrie_naturalizmus(pichova).pdf) (Dagmar Pichová) - prezentácia k príspevku, ktorý odznel dňa 24. 1. 2023 na projektovom workshope "Podoby naturalizmu v dejinách filozofie".
+
 * [Dva modely - dva spôsoby riešenia vzťahu spoločnosti a prírody]({static}/publikacie/prezentacie/modely_riesenia_vztahu_spol_prirody(buraj).pdf) (Ivan Buraj) - prezentácia k príspevku, ktorý odznel 11. 11. 2022 na workshope "Spoločnosť a príroda".
 
 * [Dva modely politicky organizovaného vzťahu spoločnosti a prírody: Industriálna a environmentálna demokracia]({static}/publikacie/prezentacie/modely_politickeho_organizovania_spol_prirody(stahel).pdf) (Richard Sťahel) - prezentácia k príspevku, ktorý odznel 11. 11. 2022 na workshope "Spoločnosť a príroda".
