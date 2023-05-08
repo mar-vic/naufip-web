@@ -44,4 +44,4 @@ Všetky tri príspevky poukázali na možnosti, akými by sa dali efektívne
 naturalizovať vybrané aspekty epistemológie resp. etiky. Ako však zaznelo aj
 v diskusii, otvorenou zostáva najmä otázka uskutočniteľnosti –
 a akceptovateľosti – úplného nahradenia filozofickej epistemológie a etiky ich
-naturalizovanými náprotivkami.  
+naturalizovanými náprotivkami.

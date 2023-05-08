@@ -2,7 +2,7 @@ Title: Výstupy
 Date: 2019-7-22 16:20
 lang: sk
 
-Na tomto mieste budeme postupne zverejňovať informácie o publikáciách,
+asdasddasd tomto mieste budeme postupne zverejňovať informácie o publikáciách,
 ktoré vzniknú v rámci projektu, ako aj prezentácie z konferenčných a
 iných vysúpení riešiteľov a riešiteliek. 
 

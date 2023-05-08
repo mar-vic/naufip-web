@@ -1,9 +1,12 @@
-Title: Výskumný pobytu na Kréte
+Title: Výskumný pobyt na Kréte
 type: správa z výskumného pobytu
 Date: 2023-05-08 14:00
 slug: sprava_z_pobytu
 summary: V dňoch 27. - 30. 3. 2023 sa doktorandka Katarína Sklutová zúčastnila výskumného pobytu na Kréte (Grécko), ktorého cieľom bolo stretnutie a diskusia s významným predstaviteľom súčasnej filozofie mysle, Keithom Frankishom. Výskumný pobyt sa konal v rámci projektu APVV-18-0178 "Naturalizmus ako univerzálny filozofický program".
 lang: sk
+image: {photo}teasers/vyskumny_pobyt.jpg
+
+<img class="right" src="{static}/photos/vyskumny_pobyt/katarina_keith.jpg">
 
 V dňoch 27. - 30. 3. 2023 sa doktorandka Katarína Sklutová zúčastnila výskumného pobytu na Kréte (Grécko), ktorého cieľom bolo stretnutie a diskusia s významným predstaviteľom súčasnej filozofie mysle, Keithom Frankishom. Výskumný pobyt sa konal v rámci projektu APVV-18-0178 "Naturalizmus ako univerzálny filozofický program".
 
@@ -11,4 +14,3 @@ Keith Frankish je britsko-grécky filozof, ktorý pôsobí ako profesor v rámci
 
 Počas uvedených stretnutí sa prediskutoval nielen aktuálny filozofický výskum doktorandky, ale aj možnosti ďalšej budúcej spolupráce.
 
-<img class="right" src="{static}/photos/druhy_workshop/druhy_workshop-3.jpg">
