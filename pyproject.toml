@@ -9,6 +9,8 @@ packages = [{include = "naufip_web"}]
 [tool.poetry.dependencies]
 python = "^3.8"
 pelican = "^4.8.0"
+pelican-photos = "^1.4.0"
+markdown = "^3.4.3"
 
 
 [build-system]
