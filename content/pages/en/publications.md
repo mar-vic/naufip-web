@@ -56,6 +56,36 @@ Chabada, M. – Maco, R. (eds.) (2021): [Varieties of Naturalism in Contemporary
 
 ## Presentations
 
+* [Progressive Valuation]({static}/publikacie/prezentacie/progressive_valuation(kitcher).pdf) (Philip Kitcher) - presentation for the lecture at the conference Naturalism as a Universal Philosophical Program, which took place on May 4th - 5th, 2023 in Bratislava.
+
+* [Applied Naturalism? Neo-Aristotelian Virtue Ethics and the Implementation Problem]({static}/publikacie/prezentacie/applied_naturalism(hahnel).pdf) (Martin Hähnel) - presentation for the lecture at the conference Naturalism as a Universal Philosophical Program, which took place on May 4th - 5th, 2023 in Bratislava.
+
+* [A fundamental dilemma for naturalism]({static}/publikacie/prezentacie/fundamental_dillema_naturalism(loffler).pdf) (Winfried Löffler) - presentation for the lecture at the conference Naturalism as a Universal Philosophical Program, which took place on May 4th - 5th, 2023 in Bratislava.
+
+* [In defense of 'hybridism' in addressing the relationship between society and nature.]({static}/publikacie/prezentacie/obrana_hybridizmu(buraj).pdf) (Ivan Buraj) -  presentation for the lecture at the conference Naturalism as a Universal Philosophical Program, which took place on May 4th - 5th, 2023 in Bratislava.
+
+* [Concept of Anthropocene and Return of Naturalism to Political Philosophy]({static}/publikacie/prezentacie/antropocen_naturalizmus(stahel).pdf) (Richard Sťahel) - presentation for the lecture at the conference Naturalism as a Universal Philosophical Program, which took place on May 4th - 5th, 2023 in Bratislava.
+
+* [Pragmatist Conception of Naturalism]({static}/publikacie/prezentacie/pragmatizmus_naturalizmus(visnovsky).pdf) (Emil Višňovský) - presentation for the lecture at the conference Naturalism as a Universal Philosophical Program, which took place on May 4th - 5th, 2023 in Bratislava.
+
+* [Critique of naturalism in the context of Svätopluk Štúr's work: From humanism to bestiality.]({static}/publikacie/prezentacie/naturalizmus_stur(lalikova).pdf) (Erika Lalíková) - presentation for the lecture at the conference Naturalism as a Universal Philosophical Program, which took place on May 4th - 5th, 2023 in Bratislava.
+
+* [Metaethical Aspects of Natural Law Theory Accordinf to John Duns Scotus]({static}/publikacie/prezentacie/metaetika_prirodzeny_zakon(chabada).pdf) (Michal Chabada) - presentation for the lecture at the conference Naturalism as a Universal Philosophical Program, which took place on May 4th - 5th, 2023 in Bratislava.
+
+* [Morality as Shared Identity]({static}/publikacie/prezentacie/moralka_zdielana_identita(greif).pdf) (Adam Greif) - presentation for the lecture at the conference Naturalism as a Universal Philosophical Program, which took place on May 4th - 5th, 2023 in Bratislava.
+
+* [Quinean Themes in Epistemology]({static}/publikacie/prezentacie/quine_feminizmus_epistemologia(szapuova).pdf) (Mariana Szapuová) - presentation for the lecture at the conference Naturalism as a Universal Philosophical Program, which took place on May 4th - 5th, 2023 in Bratislava. 
+
+* [Quine and the Naturalistic Fallacy]({static}/publikacie/prezentacie/quine_natur_omyl(nuhlicek).pdf) (Martin Nuhlíček) - presentation for the lecture at the conference Naturalism as a Universal Philosophical Program, which took place on May 4th - 5th, 2023 in Bratislava.
+
+* [The naturalization of individuation in OSR of J. Ladyman]({static}/publikacie/prezentacie/individuation_in_OSR(dvorak).pdf) (Petr Dvořák) - presentation for the lecture at the conference Naturalism as a Universal Philosophical Program, which took place on May 4th - 5th, 2023 in Bratislava. 
+
+* [What is the function of the illusion of phenomenal consciousness?]({static}/publikacie/prezentacie/function_of_ilusion(marcincinova).pdf) (Katarína Marcinčinová) - presentation for the lecture at the conference Naturalism as a Universal Philosophical Program, which took place on May 4th - 5th, 2023 in Bratislava. 
+
+* [Science Denialism From the Point of View of Individual and Social Epistemology]({static}/publikacie/prezentacie/popirani_vedy(tvrdy).pdf) (Filip Tvrdý) - presentation for the lecture at the conference Naturalism as a Universal Philosophical Program, which took place on May 4th - 5th, 2023 in Bratislava.
+
+* [Naturalism and Eddington's Problem of Two Tables]({static}/publikacie/prezentacie/naturalizmus_dva_stoly(maco).pdf) (Róbert Maco) - presentation for the lecture at the conference Naturalism as a Universal Philosophical Program, which took place on May 4th - 5th, 2023 in Bratislava. 
+
 * [From Literary to Philosophical Interpretation of Naturalism]({static}/publikacie/prezentacie/literatura_filozofia_naturalizmus(lalikova).pdf) (Erika Lalíková) - presentation accompanying the talk given on 24. 1. 2023 at the project workshop  "Varieties of Naturalism in the History of Philosophy".
 
 * [La Mettrie's Naturalism]({static}/publikacie/prezentacie/la_mettrie_naturalizmus(pichova).pdf) (Dagmar Pichová) - presentation accompanying the talk given on 24. 1. 2023 at the project workshop  "Varieties of Naturalism in the History of Philosophy".

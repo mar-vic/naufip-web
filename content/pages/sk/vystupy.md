@@ -61,6 +61,36 @@ Chabada, M. – Maco, R. (eds.) (2021): [Varieties of Naturalism in Contemporary
 
 ## Prezentácie
 
+* [Progressive Valuation]({static}/publikacie/prezentacie/progressive_valuation(kitcher).pdf) (Philip Kitcher) - prezentácia k prednáške na konferencii Naturalizmus ako univerzálny filozofický program, ktorá sa konala 4. - 5. mája 2023 v Bratislave.
+
+* [Applied Naturalism? Neo-Aristotelian Virtue Ethics and the Implementation Problem]({static}/publikacie/prezentacie/applied_naturalism(hahnel).pdf) (Martin Hähnel) - prezentácia k prednáške na konferencii Naturalizmus ako univerzálny filozofický program, ktorá sa konala 4. - 5. mája 2023 v Bratislave.
+
+* [A fundamental dilemma for naturalism]({static}/publikacie/prezentacie/fundamental_dillema_naturalism(loffler).pdf) (Winfried Löffler) - prezentácia k prednáške na konferencii Naturalizmus ako univerzálny filozofický program, ktorá sa konala 4. - 5. mája 2023 v Bratislave.
+
+* [Na obranu "hybridizmu" v riešení vzťahu spoločnosti a prírody]({static}/publikacie/prezentacie/obrana_hybridizmu(buraj).pdf) (Ivan Buraj) - prezentácia k prednáške na konferencii Naturalizmus ako univerzálny filozofický program, ktorá sa konala 4. - 5. mája 2023 v Bratislave.
+
+* [Koncept antropocénu a návrat naturalizmu do politickej filozofie]({static}/publikacie/prezentacie/antropocen_naturalizmus(stahel).pdf) (Richard Sťahel) - prezentácia k prednáške na konferencii Naturalizmus ako univerzálny filozofický program, ktorá sa konala 4. - 5. mája 2023 v Bratislave.
+
+* [Pragmatistická koncepcia naturalizmu]({static}/publikacie/prezentacie/pragmatizmus_naturalizmus(visnovsky).pdf) (Emil Višňovský) - prezentácia k prednáške na konferencii Naturalizmus ako univerzálny filozofický program, ktorá sa konala 4. - 5. mája 2023 v Bratislave.
+
+* [Kritika naturalizmu v kontexte diela Svätopluka Štúra. Od humanizmu k beštialite]({static}/publikacie/prezentacie/naturalizmus_stur(lalikova).pdf) (Erika Lalíková) - prezentácia k prednáške na konferencii Naturalizmus ako univerzálny filozofický program, ktorá sa konala 4. - 5. mája 2023 v Bratislave.
+
+* [Metaetické aspekty teórie prirodzeného zákona podľa Jána Dunsa Scota]({static}/publikacie/prezentacie/metaetika_prirodzeny_zakon(chabada).pdf) (Michal Chabada) - prezentácia k prednáške na konferencii Naturalizmus ako univerzálny filozofický program, ktorá sa konala 4. - 5. mája 2023 v Bratislave.
+
+* [Morálka ako zdieľaná identita]({static}/publikacie/prezentacie/moralka_zdielana_identita(greif).pdf) (Adam Greif) - prezentácia k prednáške na konferencii Naturalizmus ako univerzálny filozofický program, ktorá sa konala 4. - 5. mája 2023 v Bratislave.
+
+* [Quinovské témy vo feministickej epistemológii]({static}/publikacie/prezentacie/quine_feminizmus_epistemologia(szapuova).pdf) (Mariana Szapuová) - prezentácia k prednáške na konferencii Naturalizmus ako univerzálny filozofický program, ktorá sa konala 4. - 5. mája 2023 v Bratislave.
+
+* [Quine a naturalistický omyl]({static}/publikacie/prezentacie/quine_natur_omyl(nuhlicek).pdf) (Martin Nuhlíček) - prezentácia k prednáške na konferencii Naturalizmus ako univerzálny filozofický program, ktorá sa konala 4. - 5. mája 2023 v Bratislave.
+
+* [The naturalization of individuation in OSR of J. Ladyman]({static}/publikacie/prezentacie/individuation_in_OSR(dvorak).pdf) (Petr Dvořák) - prezentácia k prednáške na konferencii Naturalizmus ako univerzálny filozofický program, ktorá sa konala 4. - 5. mája 2023 v Bratislave.
+
+* [What is the function of the illusion of phenomenal consciousness?]({static}/publikacie/prezentacie/function_of_ilusion(marcincinova).pdf) (Katarína Marcinčinová) - prezentácia k prednáške na konferencii Naturalizmus ako univerzálny filozofický program, ktorá sa konala 4. - 5. mája 2023 v Bratislave.
+
+* [Popíraní vědy z hlediska individuální a sociální epistemologie]({static}/publikacie/prezentacie/popirani_vedy(tvrdy).pdf) (Filip Tvrdý) - prezentácia k prednáške na konferencii Naturalizmus ako univerzálny filozofický program, ktorá sa konala 4. - 5. mája 2023 v Bratislave.
+
+* [Naturalizmus a Eddingtonov problém dvoch stolov]({static}/publikacie/prezentacie/naturalizmus_dva_stoly(maco).pdf) (Róbert Maco) - prezentácia k prednáške na konferencii Naturalizmus ako univerzálny filozofický program, ktorá sa konala 4. - 5. mája 2023 v Bratislave.
+
 * [Od literárnej k filozofickej interpretácii naturalizmu]({static}/publikacie/prezentacie/literatura_filozofia_naturalizmus(lalikova).pdf) (Erika Lalíková) - prezentácia k príspevku, ktorý odznel dňa 24. 1. 2023 na projektovom workshope "Podoby naturalizmu v dejinách filozofie".
 
 * [La Mettrieho naturalizmus]({static}/publikacie/prezentacie/la_mettrie_naturalizmus(pichova).pdf) (Dagmar Pichová) - prezentácia k príspevku, ktorý odznel dňa 24. 1. 2023 na projektovom workshope "Podoby naturalizmu v dejinách filozofie".
