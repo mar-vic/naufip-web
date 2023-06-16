@@ -78,6 +78,8 @@ Chabada, M. – Maco, R. (eds.) (2021): [Varieties of Naturalism in Contemporary
 
 * [Quine and the Naturalistic Fallacy]({static}/publikacie/prezentacie/quine_natur_omyl(nuhlicek).pdf) (Martin Nuhlíček) - presentation for the lecture at the conference Naturalism as a Universal Philosophical Program, which took place on May 4th - 5th, 2023 in Bratislava.
 
+* [Moral progress from the standpoint of naturalistic ethics]({static}/publikacie/prezentacie/moralni_pokrok_naturalizovana_etika(chudarkova).pdf) (Petra Chudárková) - presentation for the lecture at the conference Naturalism as a Universal Philosophical Program, which took place on May 4th - 5th, 2023 in Bratislava.
+
 * [The naturalization of individuation in OSR of J. Ladyman]({static}/publikacie/prezentacie/individuation_in_OSR(dvorak).pdf) (Petr Dvořák) - presentation for the lecture at the conference Naturalism as a Universal Philosophical Program, which took place on May 4th - 5th, 2023 in Bratislava. 
 
 * [What is the function of the illusion of phenomenal consciousness?]({static}/publikacie/prezentacie/function_of_ilusion(marcincinova).pdf) (Katarína Marcinčinová) - presentation for the lecture at the conference Naturalism as a Universal Philosophical Program, which took place on May 4th - 5th, 2023 in Bratislava. 

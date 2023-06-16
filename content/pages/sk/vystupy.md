@@ -83,6 +83,8 @@ Chabada, M. – Maco, R. (eds.) (2021): [Varieties of Naturalism in Contemporary
 
 * [Quine a naturalistický omyl]({static}/publikacie/prezentacie/quine_natur_omyl(nuhlicek).pdf) (Martin Nuhlíček) - prezentácia k prednáške na konferencii Naturalizmus ako univerzálny filozofický program, ktorá sa konala 4. - 5. mája 2023 v Bratislave.
 
+* [Morální pokrok z pohledu naturalizované etiky]({static}/publikacie/prezentacie/moralni_pokrok_naturalizovana_etika(chudarkova).pdf) (Petra Chudárková) - prezentácia k prednáške na konferencii Naturalizmus ako univerzálny filozofický program, ktorá sa konala 4. - 5. mája 2023 v Bratislave.
+
 * [The naturalization of individuation in OSR of J. Ladyman]({static}/publikacie/prezentacie/individuation_in_OSR(dvorak).pdf) (Petr Dvořák) - prezentácia k prednáške na konferencii Naturalizmus ako univerzálny filozofický program, ktorá sa konala 4. - 5. mája 2023 v Bratislave.
 
 * [What is the function of the illusion of phenomenal consciousness?]({static}/publikacie/prezentacie/function_of_ilusion(marcincinova).pdf) (Katarína Marcinčinová) - prezentácia k prednáške na konferencii Naturalizmus ako univerzálny filozofický program, ktorá sa konala 4. - 5. mája 2023 v Bratislave.
