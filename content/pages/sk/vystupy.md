@@ -2,18 +2,21 @@ Title: Výstupy
 Date: 2019-7-22 16:20
 lang: sk
 
-asdasddasd tomto mieste budeme postupne zverejňovať informácie o publikáciách,
+Na tomto mieste budeme postupne zverejňovať informácie o publikáciách,
 ktoré vzniknú v rámci projektu, ako aj prezentácie z konferenčných a
 iných vysúpení riešiteľov a riešiteliek. 
 
 ## Monografie
 
+* Maco, R. (2023): _Pozvanie ku kvantovej teórii poľa pre filozofov_. Bratislava: Univerzita Komenského v Bratislave.  
+
+* Lalíková, E. (2023): _Previazanosť literárnej a filozofickej interpretácie naturalizmu (v česko-slovenskom prostredí konca 19. a prvej polovice 20. storočia)_. Bratislava: Univerzita Komenského v Bratislave.
+
 * Buraj, I. (2020): Od prirodzenosti k politike a od politiky k prirodzenosti. Bratislava: Univerzita Komenského v Bratislave.
 
 ## Zborníky
 
-* M. Nuhlíček – A. Greif – K. Sklutová (eds.) (2022): _Naturalistický obraz sveta: výzvy a limity_.
-  Bratislava: Univerzita Komenského v Bratislave.
+* M. Nuhlíček – A. Greif – K. Sklutová (eds.) (2022): _Naturalistický obraz sveta: výzvy a limity_. Bratislava: Univerzita Komenského v Bratislave.
 
 ## Mimoriadne číslo Filosofického časopisu
 
@@ -32,6 +35,10 @@ Chabada, M. – Maco, R. (eds.) (2021): [Varieties of Naturalism in Contemporary
 * Giladi, P.: Prolegomenon to Any Future Critical Responses to Naturalism. (75-94)
 
 ## Články v indexovaných časopisoch
+
+* Chabada, M. (2023): _Selected Metaethical Aspects of Philippa Foot’s Moral Philosophy_. Filozofia, 78 (1), 1 – 13.
+
+* Chabada, M. (2023): _Human Nature as a Source of Moral Normativity: Reflections on the Naturalist Approach in P. Foot’s Work Natural Goodness_. Philosophisches Jahrbuch, 130 (1), 46 – 60.
 
 * Szapuová, M. (2022): Naturalistické tendencie vo filozofii Davida Huma. Filozofia, 77 (9), 665 – 679.
 
